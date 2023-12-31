@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RestaurantBill
+comment1.params=foodTotal
+comment1.target=RestaurantBill(float)
+comment2.params=
+comment2.target=RestaurantBill()
+comment3.params=
+comment3.target=float\ getFoodTotal()
+comment4.params=
+comment4.target=float\ getTaxRate()
+comment5.params=
+comment5.target=float\ getTipRate()
+comment6.params=ft
+comment6.target=void\ setFoodTotal(float)
+comment7.params=
+comment7.target=float\ grandTotal()
+numComments=8

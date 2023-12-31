@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Movies
+comment1.params=n\ g\ r\ w\ a
+comment1.target=Movies(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Movies()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

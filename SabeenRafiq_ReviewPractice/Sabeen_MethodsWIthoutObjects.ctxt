@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Sabeen_MethodsWIthoutObjects
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=shtAverage\ bytCourse
+comment2.target=short\ calcAverage(short,\ byte[])
+comment3.params=shrScholarshipAmt\ shtAverage\ shrServiceHours
+comment3.target=short\ scholarship(short,\ short,\ short)
+numComments=4

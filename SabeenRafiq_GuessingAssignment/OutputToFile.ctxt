@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OutputToFile
+comment1.params=
+comment1.target=int\ randNumGenerator()
+comment1.text=\r\n\ This\ method\ will\ create\ a\ random\ number\ and\ return\ it\ \r\n\r\n\ @author\ Sabeen\r\n\ @version\ 2021-06-14\r\n
+numComments=2

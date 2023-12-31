@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sabeen_TypesOfData
+comment0.text=\r\n\ Name\ Of\ Program\:Types\ Of\ Data\ Practice\r\n\ Description\:\ This\ program\ will\ declares\ 3\ whole\ number\ variables\ between\ \r\n\ -30000\ and\ 29000\ and\ outputs\ the\ sum,\ average\ and\ product\ of\ these\ numbers\r\n\r\n\ @author\ Sabeen\ Rafiq\r\n\ @start\ April\ 22nd,\ 2021\r\n\ @end\ April\ 22nd,\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

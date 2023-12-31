@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ stores\ information\ about\ a\ person\r\n\r\n\ @author\ Sabeen\r\n\ @version\ 10th\ May\ 2021\r\n
+comment1.params=f\ l\ a
+comment1.target=Person(java.lang.String,\ java.lang.String,\ byte)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Person()
+comment3.params=a
+comment3.target=Person(byte)
+comment4.params=
+comment4.target=java.lang.String\ getFName()
+comment5.params=
+comment5.target=java.lang.String\ getLName()
+comment6.params=
+comment6.target=byte\ getAge()
+comment7.params=f
+comment7.target=void\ setFName(java.lang.String)
+comment8.params=l
+comment8.target=void\ setLName(java.lang.String)
+comment9.params=a
+comment9.target=void\ setAge(byte)
+numComments=11

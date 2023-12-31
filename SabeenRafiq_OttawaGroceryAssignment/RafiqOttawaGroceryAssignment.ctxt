@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RafiqOttawaGroceryAssignment
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=produceList\ strUserResponseInfoPeice
+comment2.target=void\ updateProduce(java.util.ArrayList,\ java.lang.String)
+comment3.params=bakeryList\ strUserResponseInfoPeice
+comment3.target=void\ updateBakery(java.util.ArrayList,\ java.lang.String)
+comment4.params=produceList\ bakeryList
+comment4.target=void\ printReceipt(java.util.ArrayList,\ java.util.ArrayList)
+numComments=5

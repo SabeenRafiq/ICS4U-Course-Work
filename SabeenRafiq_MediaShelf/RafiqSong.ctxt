@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RafiqSong
+comment0.text=\r\n\ Description\:\ This\ class\ stores\ information\ about\ items\ from\ a\ Song\ playlist.\ \r\n\ This\ is\ a\ subclass\ to\ RafiqMedia\r\n\r\n\ @Sabeen\ Rafiq\r\n\ @version\ 2021-05-28\r\n
+comment1.params=title\ length\ artist\ genre
+comment1.target=RafiqSong(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=RafiqSong()
+comment3.params=length
+comment3.target=RafiqSong(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

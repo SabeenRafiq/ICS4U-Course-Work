@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BnkAccount
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BankAccount\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ deposit\ acc
+comment1.target=BnkAccount(java.lang.String,\ float,\ int)
+comment2.params=
+comment2.target=BnkAccount()
+comment3.params=
+comment3.target=java.lang.String\ getOwner()
+comment4.params=
+comment4.target=int\ getAccountNumber()
+comment5.params=
+comment5.target=float\ getBalance()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

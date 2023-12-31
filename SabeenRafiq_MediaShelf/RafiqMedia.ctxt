@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RafiqMedia
+comment0.text=\r\n\ Description\:\ This\ class\ stores\ infomation\ about\ media.\ This\ is\ a\ superclass.\ \r\n\r\n\ @Sabeen\ Rafiq\r\n\ @version\ 2021-05-28\r\n
+comment1.params=title\ length
+comment1.target=RafiqMedia(java.lang.String,\ int)
+comment2.params=
+comment2.target=RafiqMedia()
+comment3.params=length
+comment3.target=RafiqMedia(int)
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=strMediaType
+comment6.target=java.lang.String\ getFormattedLength(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

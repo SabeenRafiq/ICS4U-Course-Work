@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FastFoodBill
+comment1.params=foodTotal
+comment1.target=FastFoodBill(float)
+comment2.params=
+comment2.target=float\ grandTotal()
+comment2.text=\r\n\ for\ a\ fast\ food\ bill\ we\ dont\ want\ to\ include\ a\ tip.\ So,\ we\ override\ the\ grandTotal\ calculation\r\n\ if\ sub\ class\ is\ being\ inilizied\ it\ will\ use\ this\ grand\ total\ method\ instead\ of\ the\ one\ in\ the\ superclass\r\n
+numComments=3

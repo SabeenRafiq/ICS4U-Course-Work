@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GuessingGame
+comment1.params=
+comment1.target=GuessingGame()
+comment2.params=
+comment2.target=void\ setup()
+comment2.text=\r\n\ Description\:\ This\ method\ will\ add\ all\ players\ for\ 1\ game.\ It\ will\ store\ the\ players\ in\ the\ ArrayList\ players.\r\n\r\n\ @author\:\ Sabeen\ Rafiq\r\n\ @version\:\ 2021-06-03\r\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\r\n\ Description\:\ This\ method\ will\ play\ the\ game\ with\ the\ user\ by\ creating\ a\ random\ number,\ and\ comparing\ the\ user's\ guess\ to\ it\r\n\ this\ class\ allows\ for\ multiple\ rounds\ to\ be\ played\ of\ the\ game\r\n\r\n\ @author\:\ Sabeen\ Rafiq\r\n\ @version\:\ 2021-06-03\r\n
+comment4.params=
+comment4.target=void\ updateNameInfo()
+comment4.text=\r\n\ Description\:\ This\ meathod\ will\ update\ the\ first\ or\ last\ name\ based\ on\ what\ the\ user\ wants\r\n\r\n\ @author\:\ Sabeen\ Rafiq\r\n\ @version\:\ 2021-06-03\r\n
+comment5.params=
+comment5.target=void\ updateGuessInfo()
+comment5.text=\r\n\ Description\:\ This\ meathod\ will\ update\ the\ user's\ guess\ based\ on\ if\ the\ user\ entered\ incorrect\ info\ or\ not\r\n\r\n\ @author\:\ Sabeen\ Rafiq\r\n\ @version\:\ 2021-06-03\r\n
+comment6.params=
+comment6.target=void\ printToFile()
+comment6.text=\r\n\ Description\:\ This\ method\ will\ output\ the\ finial\ score\ for\ one\ game\ to\ a\ fiel\ (ScoreBoard.txt)\ using\ PrintWriter\r\n\r\n\ @author\:\ Sabeen\ Rafiq\r\n\ @version\:\ 2021-06-03\r\n
+numComments=7

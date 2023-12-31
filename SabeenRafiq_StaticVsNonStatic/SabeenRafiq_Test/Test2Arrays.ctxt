@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Test2Arrays
+comment0.text=\r\n\ Name\ Of\ Program\:\r\n\ Description\:\ This\ program\ will\ \r\n\r\n\ @author\ Sabeen\ Rafiq\r\n\ @version\ April\ 22nd,\ 2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=matrix\ row
+comment2.target=int\ sumRow(int[][],\ int)
+numComments=3
